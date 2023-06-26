@@ -9,10 +9,7 @@ const Search = () => {
 
   const breeds = ['Poodle'];
 
-
-  useEffect(()=>{
-    
-  })
+  useEffect(() => {});
   return (
     <div className="search-params">
       <form>
@@ -60,6 +57,7 @@ const Search = () => {
             ))}
           </select>
         </label>
+        <button>submit</button>
         <button>submit</button>
       </form>
     </div>
