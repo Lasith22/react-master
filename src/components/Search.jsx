@@ -59,6 +59,7 @@ const Search = () => {
         </label>
         <button>submit</button>
         <button>submit</button>
+        <button>submit</button>
       </form>
     </div>
   );
